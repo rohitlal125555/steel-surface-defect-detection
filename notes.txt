@@ -1,0 +1,18 @@
+
+https://towardsdatascience.com/how-to-build-a-convolutional-neural-network-from-scratch-using-tf-keras-for-image-classification-ee4482de8453
+
+https://www.tensorflow.org/tutorials/images/classification
+
+Keras ResNet Comparison
+https://keras.io/zh/examples/cifar10_resnet/
+
+
+
+https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
+
+
+albumentations.OneOf([
+  albumentations.HorizontalFlip(p=1),
+  albumentations.RandomRotate90(p=1),
+  albumentations.VerticalFlip(p=1)            
+], p=1),
